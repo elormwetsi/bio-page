@@ -1,0 +1,32 @@
+#main {
+  text-align: center;
+  max-width: 100%;
+}
+
+#head {
+  color: rgba(14, 12, 12, 0.637);
+  text-align: center;
+  font-size: 60px;
+  font-family: cursive;
+}
+body {
+  background-color: rgb(200, 233, 233);
+}
+img {
+  width: 600px;
+  border-radius: 50px;
+  margin: 11px;
+}
+#page {
+  font-size: 18px;
+  text-align: center;
+  width: 800px;
+  margin: 0 auto;
+}
+#quote {
+  font-size: 18px;
+  text-align: center;
+  width: 800px;
+  margin: 0 auto;
+  color: #616161;
+}
